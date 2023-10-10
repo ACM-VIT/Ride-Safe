@@ -1,3 +1,7 @@
+
+![forktober2023](https://github.com/aastikn/Ride_Safe/blob/f1df2f6f3312dd29abb430cd3175161fd33c00cc/assets/273704485-f7f74739-b265-4d65-a24e-fc56b1026721.png)
+
+
 # RideSafe
 ## A travel companion app to make your travel safer through driver feedbacks and live tracking functionality.
 
@@ -155,4 +159,8 @@ Congratulations! You've successfully contributed to the RideSafe app. Thank you 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@associationforcomputingmac7961)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://acmvit.in/)
 [![Blog](https://img.shields.io/badge/Blog-%230A0A0A.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://blog.acmvit.in/)
+
+
+
+![ACM banner](https://github.com/aastikn/Ride_Safe/blob/f1df2f6f3312dd29abb430cd3175161fd33c00cc/assets/273704545-9767ecb1-8e70-46bd-b31a-56819ce51d60.png)
 
