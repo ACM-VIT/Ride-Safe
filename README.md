@@ -3,10 +3,7 @@
 
 
 # RideSafe
-## A travel companion app to make your travel safer through driver feedbacks and live tracking functionality.
-
-
-
+## A travel companion app to make your travel safer through driver feedback and live tracking functionality.
 
 # Contributing to RideSafe
 
@@ -17,19 +14,15 @@ Thank you for considering contributing to RideSafe by **ACM-VIT**. Hacktoberfest
 ## Contributing
 
 Please take a moment to review this section in order to make the contribution process easy and effective for everyone involved.
-
-It's important to follow these guidelines as they demonstrate your respect for the time and effort put in by the developers responsible for managing and developing this open-source project. In return for your respect, you can expect them to address your issues, evaluate any changes you suggest, and assist you in completing your pull requests.
-
 ## Contributing to RideSafe
 
-Get ready to make your first contribution during Hacktoberfest! RideSafe is gearing up for an exciting update, inviting developers to sync up with us on GitHub. Introducing the Ride Safety Companion, a Flutter app designed to ensure your safety while riding in a vehicle. Using firebase, it checks the vehicle's number plate against a dataset, sharing past users experiences, giving you peace of mind. If the number plate is not stored in the database, the app tracks your ride and sends an SOS to your emergency contact if you don't reach your destination safely. But that's not all. It also allows you to provide feedback for the driver if you reach your destination safely. Experience a comprehensive solution for ride safety with the Ride Safety Companion app.
+RideSafe is a Flutter app designed to ensure your safety while riding in a vehicle. Using Firebase, it checks the vehicle's number plate against a dataset, sharing past users' experiences, and giving you peace of mind. If the number plate is not stored in the database, the app tracks your ride and sends an SOS to your emergency contact if you don't reach your destination safely. It also allows you to provide feedback to the driver if you reach your destination safely. Experience a comprehensive solution for ride safety with the RideSafe.
 
  ### Functions:
-    - Check_database: checks if the vehicle's number plate is stored in the database
-    - Track_ride: tracks the user's ride if the number plate is not stored in the database
-    - Get_driver_feedback: takes feedback for the driver if the user reaches their destination safely
-    - Send_sos: sends an SOS to the user's emergency contact if the user does not reach their destination safely
-We're rolling out an open invitation for pull requests, making it easy for you to contribute and make a real impact. Join us on GitHub and let's sync up for an amazing Hacktoberfest! 🚀
+    - Check for stored records: checks if the vehicle's number plate is stored in the database
+    - Ride Tracking: tracks the user's ride if the number plate is not stored in the database
+    - Collect Driver Feedback: takes feedback from the user regarding the driver
+    - Sending SOS: Allows users to send an SOS to their emergency contact if the user does not reach their destination safely
 
 ## Your first Contribution!!
 
@@ -42,7 +35,7 @@ https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
 
 [http://www.firsttimersonly.com/](http://www.firsttimersonly.com/)
 
-This application will be developed using the tech stack provided by Flutter. By utilizing this cross-platform development framework, we can take advantage of the large community and libraries available for it. You can learn Flutter by following tutorials, MOOCs, courses, or documentation of your preference. Additionally, **ACM-VIT has conducted a Flutter init session**, which you can also refer to. The link to the session is provided below:
+This application will be developed using Flutter and Firebase. By utilizing this cross-platform development framework, we can take advantage of the large community and libraries available for it. You can learn Flutter by following tutorials, MOOCs, courses, or documentation of your preference. Additionally, **ACM-VIT has conducted a Flutter init session**, which you can also refer to. The link to the session is provided below:
 
 https://www.youtube.com/watch?v=4oGzfT81fIE
 
@@ -149,7 +142,7 @@ At ACM-VIT, we follow a systematic approach when it comes to committing your wor
       git push origin main
       ```
 
-Congratulations! You've successfully contributed to the RideSafe app. Thank you for being part of our community! If you have any questions or need assistance, feel free to reach out the maintainers of the project. Happy coding!
+Congratulations! You've successfully contributed to the RideSafe app. Thank you for being part of our community! If you have any questions or need assistance, feel free to reach out to the maintainers of the project. Happy coding!
 
 ## Connect with ACM-VIT
 
