@@ -1,5 +1,5 @@
 
-![forktober2023](https://github.com/aastikn/Ride_Safe/blob/f1df2f6f3312dd29abb430cd3175161fd33c00cc/assets/273704485-f7f74739-b265-4d65-a24e-fc56b1026721.png)
+![forktober2023](https://github.com/ACM-VIT/.github/blob/master/profile/forktober%202023%20new.png)
 
 
 # RideSafe
